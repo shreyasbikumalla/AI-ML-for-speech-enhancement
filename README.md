@@ -91,8 +91,3 @@ The script will:
 - Optimize model for mobile/edge deployment (via quantization or pruning)
 - Integrate visual modalities for multi-modal speech enhancement
 
-## 📜 Citation
-
-If you use this work, please cite:
-
-> Shreyas Srinivas Bikumalla, Amith Reddy Atla. *Enhancing Speech Quality in Noisy Environments*, 2024.
